@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Itish 👋
 
 <!--
 **itish-agarwal/itish-agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/itish.svg)](https://codeforces.com/profile/itish)
+https://cp-logo.vercel.app/codeforces/itish
+https://cp-logo.vercel.app/leetcode/itishagarwal2000
