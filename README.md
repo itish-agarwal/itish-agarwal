@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/itish.svg)](https://codeforces.com/profile/itish)
-https://cp-logo.vercel.app/codeforces/itish
-https://cp-logo.vercel.app/leetcode/itishagarwal2000
+[![Badge](https://cp-logo.vercel.app/codeforces/itish)]
+[![Badge](https://cp-logo.vercel.app/leetcode/itishagarwal2000)]
